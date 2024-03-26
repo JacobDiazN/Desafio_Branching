@@ -6,7 +6,7 @@ body {
   padding-top: 30px;
 } 
   
-h1 {
+h1, p {
   color: #fff;
   font-family: 'Space Mono', monospace;
   font-size: 3rem;
@@ -57,3 +57,8 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+
+p{
+  color: white;
+  font-size: 1rem;
+}
